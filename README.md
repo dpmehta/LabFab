@@ -1,4 +1,4 @@
-# LabFab: Revolutionizing Laboratory Resource Management
+# LabFab: 🔧 Facing lab hassles? Don't worry! 🌟 LabFab has got you covered! 🎓
 
 LabFab is a comprehensive web application developed using the MERN stack and Firebase database, designed to address the challenges faced by students, faculty, and lab administrators in managing laboratory resources effectively. It serves as a one-stop solution, providing seamless access to information about available components, equipment, lab schedules, and complaint management.
 
